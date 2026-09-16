@@ -13,7 +13,7 @@ Modes:
 So yeah, it's simple, and because of C, it's **FAST**.
 
 # Further plans
-I'm planning making a GUI, and restarts.
+I'm planning making a GUI, restarts and windows support
 
 # Downloading
 If you want to test program you can clone my repo to your directory, or download and unpack ZIP, check C source code, and launch the program.
@@ -22,4 +22,4 @@ If you want to test program you can clone my repo to your directory, or download
 Change directory in terminal (or open a terminal in cloned repo) to cloned repo and launch proggram with ./counter.out
 
 ## Windows
-I honestly not using windows, and can't surely say the steps you need to do, but the program supports terminal only (for now), and i think you need to do the exact same steps as i said to linux, but you need change ./counter.out, .\counter.exe in the directory.
+no windows support currently
